@@ -1,6 +1,6 @@
 "use client";
 
-import { Score } from "@/app/(dashboard)/scores/page";
+import { Score } from "@/components/dashboard/dashboard-grid";
 
 interface ScoreListProps {
   scores: Score[];

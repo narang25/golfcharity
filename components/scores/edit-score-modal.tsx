@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { Score } from "@/app/(dashboard)/scores/page";
+import { Score } from "@/components/dashboard/dashboard-grid";
 import { FormInput } from "@/components/auth/form-input";
 
 interface EditModalProps {

@@ -8,7 +8,12 @@ import { WinningsCard } from "./winnings-card";
 import { ScoreEntryForm } from "../scores/score-entry-form";
 import { ScoreList } from "../scores/score-list";
 import { EditScoreModal } from "../scores/edit-score-modal";
-import { Score } from "@/app/(dashboard)/scores/page";
+export interface Score {
+  id: string;
+  played_date: string;
+  score: number;
+  created_at: string;
+}
 
 interface DashboardData {
   subscription: any;

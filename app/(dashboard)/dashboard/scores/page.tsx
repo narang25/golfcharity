@@ -5,12 +5,7 @@ import { ScoreEntryForm } from "@/components/scores/score-entry-form";
 import { ScoreList } from "@/components/scores/score-list";
 import { EditScoreModal } from "@/components/scores/edit-score-modal";
 
-export interface Score {
-  id: string;
-  score: number;
-  played_date: string;
-  created_at: string;
-}
+import { Score } from "@/components/dashboard/dashboard-grid";
 
 export default function ScoresPage() {
   const [scores, setScores] = useState<Score[]>([]);
