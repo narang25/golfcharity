@@ -102,9 +102,6 @@ RESEND_API_KEY=your_resend_api_key
 
 ## 📸 Platform Gallery
 
-<details>
-<summary><b>Click to expand and view the beautifully crafted interfaces and user journeys</b></summary>
-
 <br>
 
 <div align="center">
@@ -170,5 +167,3 @@ RESEND_API_KEY=your_resend_api_key
 <br><br>
 
 </div>
-
-</details>
