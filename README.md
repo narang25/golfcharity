@@ -97,3 +97,78 @@ RESEND_API_KEY=your_resend_api_key
 2. **Member Logging**: Users visit `/dashboard` to execute their 5 Stableford submissions. The UI natively prevents future dates or invalid score bounds.
 3. **Execution Day**: The designated DB Admin utilizes the yellow **Enter Back Office** route. They engage `/admin/draws`, verify projected algorithmic payouts based on real-time matrix distributions, and hit `Execute Publish`. 
 4. **Verification End-Game**: The system bypasses strict validation loops to generate DB logs for `prize_payouts` and `draw_entries`. Affected winning users upload visual proof inside their vaulted dashboard to complete the cycle and move payouts to a Paid state!
+
+---
+
+## 📸 Platform Gallery
+
+<details>
+<summary><b>Click to expand and view the beautifully crafted interfaces and user journeys</b></summary>
+
+<br>
+
+<div align="center">
+
+<img src="ss%20of%20website/Screenshot%202026-03-31%20at%209.55.42%E2%80%AFPM.png" alt="Platform Screenshot" width="800">
+<br><br>
+
+<img src="ss%20of%20website/Screenshot%202026-03-31%20at%209.55.49%E2%80%AFPM.png" alt="Platform Screenshot" width="800">
+<br><br>
+
+<img src="ss%20of%20website/Screenshot%202026-03-31%20at%209.55.56%E2%80%AFPM.png" alt="Platform Screenshot" width="800">
+<br><br>
+
+<img src="ss%20of%20website/Screenshot%202026-03-31%20at%209.56.03%E2%80%AFPM.png" alt="Platform Screenshot" width="800">
+<br><br>
+
+<img src="ss%20of%20website/Screenshot%202026-03-31%20at%209.56.09%E2%80%AFPM.png" alt="Platform Screenshot" width="800">
+<br><br>
+
+<img src="ss%20of%20website/Screenshot%202026-03-31%20at%209.56.18%E2%80%AFPM.png" alt="Platform Screenshot" width="800">
+<br><br>
+
+<img src="ss%20of%20website/Screenshot%202026-03-31%20at%209.56.24%E2%80%AFPM.png" alt="Platform Screenshot" width="800">
+<br><br>
+
+<img src="ss%20of%20website/Screenshot%202026-03-31%20at%209.56.30%E2%80%AFPM.png" alt="Platform Screenshot" width="800">
+<br><br>
+
+<img src="ss%20of%20website/Screenshot%202026-03-31%20at%209.56.36%E2%80%AFPM.png" alt="Platform Screenshot" width="800">
+<br><br>
+
+<img src="ss%20of%20website/Screenshot%202026-03-31%20at%209.56.40%E2%80%AFPM.png" alt="Platform Screenshot" width="800">
+<br><br>
+
+<img src="ss%20of%20website/Screenshot%202026-03-31%20at%209.56.43%E2%80%AFPM.png" alt="Platform Screenshot" width="800">
+<br><br>
+
+<img src="ss%20of%20website/Screenshot%202026-03-31%20at%209.56.50%E2%80%AFPM.png" alt="Platform Screenshot" width="800">
+<br><br>
+
+<img src="ss%20of%20website/Screenshot%202026-03-31%20at%209.56.58%E2%80%AFPM.png" alt="Platform Screenshot" width="800">
+<br><br>
+
+<img src="ss%20of%20website/Screenshot%202026-03-31%20at%209.57.01%E2%80%AFPM.png" alt="Platform Screenshot" width="800">
+<br><br>
+
+<img src="ss%20of%20website/Screenshot%202026-03-31%20at%209.57.08%E2%80%AFPM.png" alt="Platform Screenshot" width="800">
+<br><br>
+
+<img src="ss%20of%20website/Screenshot%202026-03-31%20at%209.57.15%E2%80%AFPM.png" alt="Platform Screenshot" width="800">
+<br><br>
+
+<img src="ss%20of%20website/Screenshot%202026-03-31%20at%209.57.21%E2%80%AFPM.png" alt="Platform Screenshot" width="800">
+<br><br>
+
+<img src="ss%20of%20website/Screenshot%202026-03-31%20at%209.57.31%E2%80%AFPM.png" alt="Platform Screenshot" width="800">
+<br><br>
+
+<img src="ss%20of%20website/Screenshot%202026-03-31%20at%209.57.34%E2%80%AFPM.png" alt="Platform Screenshot" width="800">
+<br><br>
+
+<img src="ss%20of%20website/Screenshot%202026-03-31%20at%209.57.40%E2%80%AFPM.png" alt="Platform Screenshot" width="800">
+<br><br>
+
+</div>
+
+</details>
